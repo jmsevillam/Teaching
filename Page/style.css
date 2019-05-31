@@ -1,8 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Permanent+Marker|Playfair+Display:900|Open+Sans');
-
 body {
     background: #e9e9e9;
-    background-image: url('https://github.com/jmsevillam/Teaching/raw/master/Page/backgroudn.png');
+    background-image: url('https://github.com/jmsevillam/Teaching/raw/master/Page/backgroudn.jpg');
     background-size: cover;
     padding: 100px;
     font-family: 'Open Sans', sans-serif;
@@ -12,7 +11,6 @@ body {
     grid-template-columns: 300px auto;
     background-repeat: no-repeat;
 }
-
 h1 {
     grid-row-start: 1;
     grid-column-start: 1;
@@ -20,8 +18,8 @@ h1 {
     color: rgb(104, 85, 57);
     font-size: 48pt;
     font-family: 'Playfair Display', sans-serif;
-  
-    background-image: linear-gradient(120deg, rgb(30,77,53) 0%, rgb(245, 233, 149) 50%, rgb(28, 33, 104) 100%);
+    
+    background-image: linear-gradient(120deg, rgb(30,77,53) 0%, rgb(28, 33, 104) 100%);
     background-repeat: no-repeat;
     background-size: 100% 0.2em;
     background-position: 0 100%;
