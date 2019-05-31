@@ -15,13 +15,13 @@ h1 {
     grid-row-start: 1;
     grid-column-start: 1;
     grid-column-end: 3;
-    color: rgb(104, 85, 57);
+    color: rgb(26, 82, 118);
     font-size: 48pt;
     font-family: 'Playfair Display', sans-serif;
     
-    background-image: linear-gradient(120deg, rgb(0,0,0) 0%, rgb(0, 0, 0) 100%);
+    background-image: linear-gradient(120deg, rgb(100,100,100) 0%, rgb(100, 100, 100) 100%);
     background-repeat: no-repeat;
-    background-size: 100% 0.2em;
+    background-size: 100% 0.1em;
     background-position: 0 100%;
     transition: background-size 0.25s ease-in;        
 }
